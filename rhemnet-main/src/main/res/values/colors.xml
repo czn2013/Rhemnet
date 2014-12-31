@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_lilac">#A2549B</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="background_activity_login_bottom_panel">#DCCF93BC</color>
+    <color name="background_search_menu">#4F4F4D</color>
+    <color name="background_menu_home_panel">#857F7B</color>
+    <color name="background_activity_home_panel">#BBd3d0ce</color>
+    <color name="background_activity_home_panel_back">#ffd3d0ce</color>
+    <color name="text_dark">#4F4F4D</color>
+    <color name="text_gray">#857F7B</color>
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/media_player_recommend_vertical_width"
+    android:layout_height="@dimen/media_player_recommend_vertical_height">
+    <ImageView
+        android:id="@id/media_player_recommend_list_image"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        />
+    
+    <TextView
+        android:id="@id/media_player_recommend_list_text"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="NAME"
+        android:layout_gravity="center|bottom"
+        />
+        
+
+</FrameLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rhemnet</string>
+    <string name="hint_edit_login">username</string>
+    <string name="hint_edit_password">password</string>
+    <string name="text_login_button">Login</string>
+    <string name="text_forgot_password">Forgot your password?</string>
+    <string name="text_no_account">Don\'t have an account?</string>
+    <string name="text_create_account">Create one</string>
+    <string name="text_library">Library</string>
+    <string name="text_on_the_go">On-The-Go</string>
+    <string name="text_notice_board">Notice Board</string>
+    <string name="text_invite_friend">Invite a Friend</string>
+
+
+    <string name="register_text_register_form">Register form</string>
+
+    <string name="register_text_reqired">Required</string>
+    <string name="register_text_user_name">User name</string>
+    <string name="register_text_password">Password</string>
+    <string name="register_text_repeat_password">Repeat password</string>
+    <string name="register_text_email">Email</string>
+    <string name="register_text_name">First Name</string>
+    <string name="register_text_second_name">Second name</string>
+    <string name="register_text_address">Address</string>
+    <string name="register_text_phone">Telephone</string>
+    <string name="register_text_accept_terms">accept terms and conditions</string>
+    <string name="register_text_send">Send</string>
+    <!-- client_account_type_id -->
+    <string name="register_text_city">City</string>
+    <string name="register_text_country">Counttry</string>
+    <string name="register_text_organisation_id">Organisation</string>
+    <string name="register_text_organisation_role">Organisation Role</string>
+    <string name="register_text_house_no">House No.</string>
+    <string name="register_text_zip_code">Zip Code</string>
+    <string name="register_text_province">Province</string>
+    <string name="register_text_fax">Fax</string>
+    <string name="register_text_facebook">Facebook</string>
+    <string name="register_text_twitter">Twitter</string>
+    <string name="register_text_website">Website</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

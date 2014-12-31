@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="layout_top_panel" type="id" />
+    <item name="layout_bottom_panel" type="id" />
+    <item name="sidebar_setting_btn" type="id" />
+    <item name="button_library" type="id" />
+    <item name="text_library" type="id" />
+    <item name="button_go" type="id" />
+    <item name="text_go" type="id" />
+    <item name="button_notice_board" type="id" />
+    <item name="text_board" type="id" />
+    <item name="button_invite_friend" type="id" />
+    <item name="text_invite_friend" type="id" />
+
+    <item name="activity_menu_anchor" type="id" />
+    <item name="activity_menu_logo" type="id" />
+    <item name="sidebar_anchor" type="id" />
+    <item name="sidebar_sign_out" type="id" />
+
+    <item name="home_library_btn" type="id" />
+    <item name="home_on_the_go_btn" type="id" />
+    <item name="home_notice_board_btn" type="id" />
+    <item name="home_invite_a_friend_btn" type="id" />
+
+
+    <item name="sidebar_invite_a_friend_email" type="id" />
+    <item name="sidebar_invite_a_friend_facebook" type="id" />
+    <item name="sidebar_invite_a_friend_telephone" type="id" />
+
+    <item name="sidebar_search_ministry" type="id" />
+    <item name="sidebar_search_title" type="id" />
+    <item name="sidebar_search_preacher" type="id" />
+
+    <item name="sidebar_on_the_go_ministry" type="id" />
+    <item name="sidebar_on_the_go_keyword" type="id" />
+    <item name="sidebar_on_the_go_preacher" type="id" />
+
+    <item name="activity_otg_search_tv_title" type="id" />
+    <item name="activity_otg_search_sv_search" type="id" />
+    <item name="activity_otg_search_lv_list" type="id" />
+
+    <item name="sidebar_notice_board_my_board" type="id" />
+    <item name="sidebar_notice_board_rhemnet_board" type="id" />
+    <item name="sidebar_notice_board_current_news" type="id" />
+
+    <item name="menu_settings_btn" type="id" />
+    <item name="menu_my_account_btn" type="id" />
+    <item name="menu_upgrade_btn" type="id" />
+    <item name="menu_about_btn" type="id" />
+    <item name="menu_contact_us_btn" type="id" />
+    <item name="menu_sign_out_btn" type="id" />
+
+
+    <item name="small_player_play" type="id" />
+    <item name="small_player_progress_bar" type="id" />
+    <item name="small_player_time" type="id" />
+    <item name="small_player_sound" type="id" />
+    <item name="small_player_full_screen" type="id" />
+    <item name="small_player_circle" type="id" />
+
+    <item name="media_player_play_btn" type="id" />
+    <item name="media_player_hint_view" type="id" />
+
+    <item name="list_item_title" type="id" />
+    <item name="list_item_description" type="id" />
+
+    <item name="invite_fragment" type="id" />
+    <item name="board_fragment" type="id" />
+
+    <item name="media_player_recommend_vertical" type="id"/>
+    <item name="media_player_recommend_horizontal" type="id"/>
+    <item name="media_player_recommend_list_image" type="id"/>
+    <item name="media_player_recommend_list_text" type="id"/>
+    <item name="media_player_recommend_list" type="id"/>
+
+    <item name="register_edit_username" type="id"/>
+    <item name="register_edit_password" type="id"/>
+    <item name="register_edit_repeat_password" type="id"/>
+    <item name="register_edit_email" type="id"/>
+    <item name="register_edit_first_name" type="id"/>
+    <item name="register_edit_second_name" type="id"/>
+    <item name="register_edit_address" type="id"/>
+    <item name="register_edit_phone" type="id"/>
+
+    <item name="register_edit_city" type="id"/>
+    <item name="register_edit_country" type="id"/>
+    <item name="register_edit_organisation_id" type="id"/>
+    <item name="register_edit_organisation_role" type="id"/>
+    <item name="register_edit_house_no" type="id"/>
+    <item name="register_edit_zip_code" type="id"/>
+    <item name="register_edit_province" type="id"/>
+    <item name="register_edit_fax" type="id"/>
+    <item name="register_edit_facebook" type="id"/>
+    <item name="register_edit_twitter" type="id"/>
+    <item name="register_edit_website" type="id"/>
+
+    <item name="register_btn_send" type="id"/>
+
+    <item name="register_check_accept" type="id"/>
+
+
+</resources>

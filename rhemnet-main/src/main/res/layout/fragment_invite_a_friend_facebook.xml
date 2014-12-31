@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/invite_a_friend_facebook_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:padding="@dimen/view_margin_border">
+        <TextView
+
+            style="@style/InputTextViewStyle"
+            android:text="SIGN IN WITH FACEBOOK"
+            android:layout_margin="@dimen/input_field_margin"/>
+        <EditText
+
+            style="@style/InputEditTextStyle"
+            android:drawableLeft="@drawable/invite_a_friend_mail_icon"
+            android:hint="yourname@gmail.com"
+            android:layout_gravity="center"
+            />
+
+        <EditText
+            style="@style/InputEditTextStyle"
+            android:drawableLeft="@drawable/invite_a_friend_password_icon"
+            android:hint="email friend"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/input_field_margin"
+            android:layout_marginBottom="@dimen/input_field_margin"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign in with Facebook and invite"
+            android:textSize="@dimen/activity_login_button_text_size"
+            android:background="@drawable/invite_a_friend_facebook_button"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

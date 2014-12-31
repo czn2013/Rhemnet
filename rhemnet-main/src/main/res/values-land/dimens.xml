@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo_width">140dp</dimen>
+    <dimen name="logo_height">@dimen/logo_width</dimen>
+
+    <dimen name="activity_splash_bottom_image_padding">10dp</dimen>
+    <dimen name="activity_login_logo_margin_top">0dp</dimen>
+    <dimen name="activity_login_field_margin">80dp</dimen>
+    <dimen name="activity_home_panel_height">40dp</dimen>
+    <dimen name="menu_size">120dp</dimen>
+    <dimen name="activity_login_username_margin_top">0dp</dimen>
+    <dimen name="activity_login_edit_text_size">13sp</dimen>
+    <dimen name="activity_login_button_text_size">15sp</dimen>
+    <dimen name="activity_login_no_account_text_size">15sp</dimen>
+    <dimen name="activity_registration_send_button_text_size">15sp</dimen>
+    <dimen name="activity_registration_field_text_size">17sp</dimen>
+    <dimen name="activity_registration_scroll_margin_top">10dp</dimen>
+    <dimen name="activity_registration_field_margin_top">3dp</dimen>
+    <dimen name="activity_registration_second_portion_margin_top">15dp</dimen>
+    <dimen name="activity_registration_part_padding_left">10dp</dimen>
+    <dimen name="activity_registration_part_padding_right">10dp</dimen>
+    <dimen name="activity_registration_logo_margin">0dp</dimen>
+    <dimen name="activity_registration_send_button_width">150dp</dimen>
+    <dimen name="activity_registration_register_text_size">0dp</dimen>
+    <dimen name="activity_registration_send_button_margin_top">10dp</dimen>
+    <dimen name="activity_registration_form_margin_top">0dp</dimen>
+    <dimen name="activity_registration_form_side_margin">0dp</dimen>
+    <dimen name="activity_home_item_text_size">15sp</dimen>
+    <dimen name="activity_home_item_text_margin_left">80dp</dimen>
+
+    <dimen name="view_margin_border">80dp</dimen>
+
+</resources>

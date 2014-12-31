@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/text_lilac">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_home_panel_height"
+        android:background="@color/background_menu_home_panel" />
+
+    <Button
+        android:id="@id/menu_settings_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/menu_settings_btn" />
+    <ScrollView
+        android:layout_below="@id/menu_settings_btn"
+        android:layout_above="@id/menu_sign_out_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left|center_vertical"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            style="@style/MenuTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Settings" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <Button
+                android:id="@id/menu_my_account_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/menu_my_account" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <Button
+                android:id="@id/menu_upgrade_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/menu_upgrade_btn" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/menu_about_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/menu_about_btn" />
+        </FrameLayout>
+
+        <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <Button
+            android:id="@id/menu_contact_us_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@drawable/menu_contact_us_btn" />
+    </FrameLayout>
+
+
+
+</LinearLayout>
+    </ScrollView>
+
+<FrameLayout
+android:layout_width="match_parent"
+android:layout_height="@dimen/activity_home_panel_height"
+android:layout_alignParentBottom="true"
+android:background="@color/background_menu_home_panel" />
+
+<Button
+android:id="@id/menu_sign_out_btn"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_alignParentBottom="true"
+android:layout_marginBottom="10dp"
+android:layout_marginLeft="30dp"
+android:background="@drawable/background_button_sing_out" /></RelativeLayout>
